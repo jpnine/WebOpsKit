@@ -1,4 +1,4 @@
-# Maintenance_Template
+# Maintenance_Template for static website 
 - htaccess
 - maintenance.html
 
